@@ -13,7 +13,7 @@ dependencies = [
 ]
 
 [project.scripts]
-vequiz = "vequiz.game:main"
+vequiz = "word2vequiz.game:main"
 
 [build-system]
 requires = ["hatchling"]
