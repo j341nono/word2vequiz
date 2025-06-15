@@ -7,6 +7,7 @@ TARGET_DIR="src/copus"
 
 uv venv
 source .venv/bin/activate
+
 uv pip install gdown
 
 mkdir -p "$TARGET_DIR"
