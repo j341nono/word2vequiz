@@ -4,7 +4,7 @@ from numpy import dot
 from numpy.linalg import norm
 import threading
 import time
-from vequiz.spinner import Spinner
+from word2vequiz.spinner import Spinner
 import sys
 
 dict_path = "src/copus/GoogleNews-vectors.bin"
